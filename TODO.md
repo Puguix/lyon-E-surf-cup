@@ -1,0 +1,6 @@
+-   add size avatar crop
+-   taille des videos
+-   sur mobile page  admin: footer dépasse sur le contenu
+-   s'occuper des liens youtube et vérifier que se soit des liens valides
+-   include icons
+-   changer l'adresse qui depuis la page admin/home permet d'aller sur la page visiteur
